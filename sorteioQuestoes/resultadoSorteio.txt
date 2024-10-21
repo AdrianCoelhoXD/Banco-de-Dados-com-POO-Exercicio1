@@ -1,0 +1,4 @@
+Estudante,Questão
+Alice,Questão 5: Qual é a raiz quadrada de 81?
+Bruno,Questão 4: Quanto é 16 ÷ 2?
+Carlos,Questão 1: Quanto é 10 + 1?
